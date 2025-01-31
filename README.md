@@ -1,3 +1,6 @@
+![Screenshot From 2025-01-31 18-00-16](https://github.com/user-attachments/assets/8d002f3e-d7f8-41ae-9488-890676a781d6)
+
+
 # Hangman Game
 
 Welcome to the Hangman game! This is a fun and interactive word-guessing game where you have to guess a secret word based on category selections. As you guess, you’ll have limited attempts before the game ends. Can you guess the word before you run out of tries? Let’s find out!
